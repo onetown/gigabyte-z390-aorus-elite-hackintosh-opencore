@@ -1,6 +1,9 @@
 # Hackintosh Catalina Setup for Gigabyte Z390 Aorus Elite
 
-This build is "Vanilla", and I start with [this guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/)
+### Update 20201219
+Update to opencore 0.6.4, now it supports MacOS Big Sur.
+
+This build is "Vanilla", and you may follow [this guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 ### Hardware
 - Gigabyte Z390 Aorus Elite (bios F10c)
