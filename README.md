@@ -5,7 +5,7 @@
 - Use Binary resources with [this repo](https://github.com/acidanthera/OcBinaryData)
 - Use BigSur Icons with [this repo](https://github.com/khronokernel/OpenCanopy-Big-Sur)
 - Drivers upgrade to newest which adapted with OpenCore 0.6.4
-- Changed [MISC] -> [Boot] -> [Picker Attributes] to "1" witch means *Provides custom icons for boot entries*
+- Changed [MISC] -> [Boot] -> [Picker Attributes] to "1" which means *Provides custom icons for boot entries*
 - Changed [MISC] -> [Security] -> [Scan Policy] to "28248323"(0x1AF0903) which means *Allow OpenCore to Scan APFS, NTFS, SATA, SASEX, SCSI, NVME, USB, SDCARD, PCI* 
 
 
