@@ -1,5 +1,14 @@
 # Hackintosh Catalina Setup for Gigabyte Z390 Aorus Elite
 
+### Update 20210104
+Use GUI boot picker instead text mode with [this guide](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html)
+Use Binary resources with [this repo](https://github.com/acidanthera/OcBinaryData)
+Use BigSur Icons with [this repo](https://github.com/khronokernel/OpenCanopy-Big-Sur)
+Drivers upgrade to newest which adapted with OpenCore 0.6.4
+Changed [MISC] -> [Boot] -> [Picker Attributes] to "1" wich means * Provides custom icons for boot entries*
+Changed [MISC] -> [Security] -> [Scan Policy] to "28248323"(0x1AF0903) which means * Allow OpenCore to Scan APFS, NTFS, SATA, SASEX, SCSI, NVME, USB, SDCARD, PCI * 
+
+
 ### Update 20201219
 Update to opencore 0.6.4, now it supports MacOS Big Sur.
 
