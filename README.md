@@ -1,5 +1,8 @@
 # Hackintosh Catalina Setup for Gigabyte Z390 Aorus Elite
 
+### Update 20210108
+- Disabled BootKick EFI tool
+
 ### Update 20210104
 - Use GUI boot picker instead text mode with [this guide](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html)
 - Use Binary resources with [this repo](https://github.com/acidanthera/OcBinaryData)
